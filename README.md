@@ -5,7 +5,8 @@ In the realm of neural network architecture, the choice of activation functions 
 ### Repository Contents
 This repository offers a TensorFlow/Keras-based implementation of three well-regarded activation functions: the Exponential Linear Unit (ELU), Softplus, and Swish. Our focus extends to two distinct approaches in deploying adaptive activation functions within a neural network:
 
-    * Shared Parameters Approach: This configuration employs a common set of parameters for the adaptive activation functions across all neurons in a particular hidden layer, promoting parameter efficiency and reducing the risk of overfitting.
-    * Individual Parameters Approach: In contrast, this setup allows each neuron to adapt its activation function independently by learning its own set of parameters, providing the potential for a highly tailored and nuanced modeling of complex patterns.
-    
++ Shared Parameters Approach: This configuration employs a common set of parameters for the adaptive activation functions across all neurons in a particular hidden layer, promoting parameter efficiency and reducing the risk of overfitting.
+
++ Individual Parameters Approach: In contrast, this setup allows each neuron to adapt its activation function independently by learning its own set of parameters, providing the potential for a highly tailored and nuanced modeling of complex patterns.
+
 Our implementations aim to provide a practical framework for experimenting with and integrating adaptive activation functions into neural network models, paving the way for enhanced performance and deeper insights into the learning dynamics of neural networks.
