@@ -15,4 +15,4 @@ If you use our implementation of adaptive activation functions, please cite the 
 
 Pourkamali-Anaraki, F., Nasrin, T., Jensen, R. E., Peterson, A. M., & Hansen, C. J. Adaptive Activation Functions for Predictive Modeling with Sparse Experimental Data. arXiv preprint. 
 
-<img src="https://raw.githubusercontent.com/farhad-pourkamali/AdaptiveActivation/main/adaptive.png" alt="adaptive" width=500 align=center />
+<img src="https://raw.githubusercontent.com/farhad-pourkamali/AdaptiveActivation/main/adaptive.png" alt="adaptive" width=1000 align=center />
