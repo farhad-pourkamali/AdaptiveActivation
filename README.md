@@ -16,3 +16,8 @@ If you use our implementation of adaptive activation functions, please cite the 
 + Pourkamali-Anaraki, F., Nasrin, T., Jensen, R. E., Peterson, A. M., & Hansen, C. J. Adaptive Activation Functions for Predictive Modeling with Sparse Experimental Data. arXiv preprint. 
 
 <img src="https://raw.githubusercontent.com/farhad-pourkamali/AdaptiveActivation/main/adaptive.png" alt="adaptive" width=1000 align=center />
+
+If you use this implementation, please cite the following paper: 
+Pourkamali-Anaraki, F., Nasrin, T., Jensen, R.E. et al. Adaptive activation functions for predictive modeling with sparse experimental data. Neural Comput & Applic (2024). https://doi.org/10.1007/s00521-024-10156-8
+
+
